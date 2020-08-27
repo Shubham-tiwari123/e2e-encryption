@@ -1,0 +1,27 @@
+{
+  "name": "e2e-file-encypt",
+  "version": "1.0.0",
+  "description": "Javascript e2e file encryption library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "eccrypto": "^1.1.5",
+    "mocha": "^8.1.1"
+  },
+  "files": [
+    "src/",
+    "test/"
+  ],
+  "keywords": [
+    "ecc",
+    "ecdsa",
+    "e2e",
+    "crypto",
+    "secp256k1",
+    "eccrypto"
+  ],
+  "author": "",
+  "license": "ISC"
+}
